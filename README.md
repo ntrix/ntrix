@@ -26,7 +26,7 @@ This is the collection of components that I wrote for [amazim.store][amazim], in
 This is not only an online shop/platform/clone of Amazon, Netflix or something else built with a js-framework,
 but also a long term example experimenting some **modern**, **real-world**, **maybe unstable** React APIs, Nx, Mobile friendly PWA and also some Backend technologies in my spare time.
 
-## Tech stack: MERN & Co.
+## Tech stack: MERN & Co
 
 ### Frontend Stack
 
@@ -43,7 +43,7 @@ but also a long term example experimenting some **modern**, **real-world**, **ma
 
 ### Backend Stack
 
-![Tech Stack Backtend][stackbe]
+![Tech Stack Backend][stackbe]
 
 - [Node JS][node]
 - [Express JS][express]
@@ -67,15 +67,15 @@ but also a long term example experimenting some **modern**, **real-world**, **ma
 
 ## Working application
 
-### Live demo, PWA, QR code:
+### Live demo, PWA, QR code
 
 | **[amazim.store][amazim]**   | **[amazin.ntien.com][amazin]**   |
 | ---------------------------- | -------------------------------- |
 | ![amazim.store QR][qramazim] | ![amazin.ntien.com QR][qramazin] |
 
-![Amazon Clone built with React and Node][demo]
+![Amazon Clone built with React and Node demo Nav Currency Search Suggest Category Filter][nav currency search suggest category filter]
 
-### Source code:
+### Source code
 
 Frontend: [github.com/ntrix/amazin][fenx]
 
@@ -90,7 +90,7 @@ Backend: [github.com/ntrix/amazin-be][bev1]
 When I look at the application, it is **huge**. When the task is huge, you usually don't know how to start working with them.
 I had to break the big task into smaller parts, do it step by step and enjoy learning.
 
-Yes, **Learning by Doing ** that's my approach. If you see a long path ahead, don't heap or run or give up, just divide the path(process) to steps and make (conquer) the first one, and then another one.
+Yes, **Learning by Doing** that's my approach. If you see a long path ahead, don't heap or run or give up, just divide the path(process) to steps and make (conquer) the first one, and then another one.
 I learned a lot of stuff, also renew and update my knowledge just by doing. You might too have a curiosity about the process of building the same scale app as well, but just let's do it.
 
 | Part | Description                                                       | Status   |
@@ -102,7 +102,7 @@ I learned a lot of stuff, also renew and update my knowledge just by doing. You 
 | 02b  | Frontend Deploy: [Vercel][vercel]                                 | Done     |
 | 03a  | Frontend v3: [Source][fenx], Migration to [Nx][nx]                | Done     |
 | 03b  | [Testing in React][testing]                                       | Doing    |
-| 03c  | E2E testing with [Cypress][cy]                                    | Doing    |
+| 03c  | E2E testing with [Cypress][cy]                                    | **Todo** |
 | 04   | Performance & Experiment some [unstable React API][reactapi]      | Done     |
 | 05a  | [AWS Cloud Backend?][aws]                                         | **Todo** |
 | 05b  | Backend [DB cache][redis]                                         | Doing    |
@@ -110,7 +110,7 @@ I learned a lot of stuff, also renew and update my knowledge just by doing. You 
 | ..   | ..                                                                | ..       |
 | 09a  | [StoryBook UI Components][storybook], isolate UI/UI libs          | Done     |
 | 09b  | [Documentation][mdx]                                              | Doing    |
-| 09c  | Migration to TypeScript                                           | **Todo** |
+| 09c  | Migration to TypeScript                                           | **Done** |
 
 [atlas]: https://www.mongodb.com/cloud/atlas
 [bev1]: https://github.com/ntrix/amazin-be
@@ -133,7 +133,7 @@ I learned a lot of stuff, also renew and update my knowledge just by doing. You 
 [qramazin]: https://raw.githubusercontent.com/ntrix/amazin/nx/apps/amazin/src/stories/img/qrcode.amazin.ntien.com.png
 [amazin-story]: https://ntrix.github.io/amazin-story/
 [amazin-story-vercel]: https://amazin-story.vercel.app/
-[demo]: https://raw.githubusercontent.com/ntrix/amazin/nx/apps/amazin/src/stories/img/amazim-react-demo-ntien.gif
+[nav currency search suggest category filter]: https://raw.githubusercontent.com/ntrix/amazin/nx/apps/amazin/src/stories/img/gif/Nav%20Currency%20Search%20Suggest%20Category%20Filter.gif
 
 ## Code Climate
 
@@ -141,10 +141,38 @@ I learned a lot of stuff, also renew and update my knowledge just by doing. You 
 
 [![Test Coverage](https://api.codeclimate.com/v1/badges/c63323239801d458e190/test_coverage)](https://codeclimate.com/github/ntrix/amazin/test_coverage)
 
+## Demo
+
+### Sort Filter Search Nav SideNav
+
+![Sort Filter Search Nav SideNav][sort-filter-search-nav-side-nav]
+
+### Screen SubNav SearchFilter Pagination
+
+![Screen SubNav SearchFilter Pagination][screen-sub-nav-search-filter-pagination]
+
+### Responsive
+
+![Responsive][responsive]
+
+### Currency Shipping Payment Contact Profile Validate
+
+![Currency Shipping Payment Contact Profile Validate][currency-shipping-payment-contact-profile-validate]
+
+### Content Management Product Image User Order
+
+![Content Management Product Image User Order][content-management-product-image-user-order]
+
+[content-management-product-image-user-order]: https://raw.githubusercontent.com/ntrix/amazin/nx/apps/amazin/src/stories/img/gif/Content%20Management%20Product%20Image%20User%20Order.gif
+[currency-shipping-payment-contact-profile-validate]: https://raw.githubusercontent.com/ntrix/amazin/nx/apps/amazin/src/stories/img/gif/Currency%20Shipping%20Payment%20Contact%20Profile%20Validate.gif
+[responsive]: https://raw.githubusercontent.com/ntrix/amazin/nx/apps/amazin/src/stories/img/gif/Responsive.gif
+[screen-sub-nav-search-filter-pagination]: https://raw.githubusercontent.com/ntrix/amazin/nx/apps/amazin/src/stories/img/gif/Screen%20SubNav%20SearchFilter%20Pagination.gif
+[sort-filter-search-nav-side-nav]: https://raw.githubusercontent.com/ntrix/amazin/nx/apps/amazin/src/stories/img/gif/Sort%20Filter%20Search%20Nav%20SideNav.gif
+
 ## Nx Amazin' Amazim Store
 
-This project was generated using [Nx](https://nx.dev).
+This project using [Nx](https://nx.dev).
 
-<p style="text-align: center;"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="450"></p>
+![nx-logo](https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png)
 
 🔎 **Smart, Extensible Build Framework**
