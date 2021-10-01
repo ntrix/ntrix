@@ -1,4 +1,4 @@
-# Welcome to Amazin' Amazim Storybook
+# Welcome to Amazin' Amazim Store
 
 ## A React Amazon (& Netflix & ...) Clone Project
 
