@@ -19,7 +19,7 @@ This is the collection of components that I wrote for [amazim.store][amazim], in
 - Cards
 - And more to come ..
 
-[https://ntrix.github.io/amazin-story/][amazin-story] or [https://amazin-story.vercel.app/][amazin-story-vercel]
+[https://ntrix.github.io/amazin-story/][amazin-story] or [https://amazin-storybook.vercel.app/][amazin-story-vercel]
 
 ## What is Amazim?
 
@@ -132,7 +132,7 @@ I learned a lot of stuff, also renew and update my knowledge just by doing. You 
 [qramazim]: https://raw.githubusercontent.com/ntrix/amazin/nx/apps/amazin/src/stories/img/qrcode.amazim.store.png
 [qramazin]: https://raw.githubusercontent.com/ntrix/amazin/nx/apps/amazin/src/stories/img/qrcode.amazin.ntien.com.png
 [amazin-story]: https://ntrix.github.io/amazin-story/
-[amazin-story-vercel]: https://amazin-story.vercel.app/
+[amazin-story-vercel]: https://amazin-storybook.vercel.app/
 [nav currency search suggest category filter]: https://raw.githubusercontent.com/ntrix/amazin/nx/apps/amazin/src/stories/img/gif/Nav%20Currency%20Search%20Suggest%20Category%20Filter.gif
 
 ## Code Climate
@@ -143,23 +143,23 @@ I learned a lot of stuff, also renew and update my knowledge just by doing. You 
 
 ## Demo
 
-### Sort Filter Search Nav SideNav
+### Sort, Filter, Search, Nav, SideNav
 
 ![Sort Filter Search Nav SideNav][sort-filter-search-nav-side-nav]
 
-### Screen SubNav SearchFilter Pagination
+### Screen, SubNav, SearchFilter, Pagination
 
 ![Screen SubNav SearchFilter Pagination][screen-sub-nav-search-filter-pagination]
 
-### Responsive
+### Responsive any size
 
 ![Responsive][responsive]
 
-### Currency Shipping Payment Contact Profile Validate
+### Currency, Shipping, Payment, Contact, Profile, Validate
 
 ![Currency Shipping Payment Contact Profile Validate][currency-shipping-payment-contact-profile-validate]
 
-### Content Management Product Image User Order
+### Content, Management, Product, Image, User, Order
 
 ![Content Management Product Image User Order][content-management-product-image-user-order]
 
@@ -168,6 +168,10 @@ I learned a lot of stuff, also renew and update my knowledge just by doing. You 
 [responsive]: https://raw.githubusercontent.com/ntrix/amazin/nx/apps/amazin/src/stories/img/gif/Responsive.gif
 [screen-sub-nav-search-filter-pagination]: https://raw.githubusercontent.com/ntrix/amazin/nx/apps/amazin/src/stories/img/gif/Screen%20SubNav%20SearchFilter%20Pagination.gif
 [sort-filter-search-nav-side-nav]: https://raw.githubusercontent.com/ntrix/amazin/nx/apps/amazin/src/stories/img/gif/Sort%20Filter%20Search%20Nav%20SideNav.gif
+
+## Preview video
+
+[![Preview video on youtube](https://raw.githubusercontent.com/ntrix/amazin/nx/apps/amazin/src/stories/img/preview-video-on-youtube.png)](https://www.youtube.com/watch?v=7GNQKYdpDHQ)
 
 ## Nx Amazin' Amazim Store
 
