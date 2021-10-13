@@ -1,6 +1,6 @@
 # Tien Nguyen
 
-## Passionate Data Analyst, Javascript & Web Developer
+## - Passionate Data Analyst, Javascript & Web Developer -
 
 ![Tech stack Banner](https://raw.githubusercontent.com/ntrix/ntrix/ntrix-images/javascript-developer-techstack-900.png)
 
@@ -10,7 +10,7 @@
 
 - **_Enjoy working with ReactJS and creating something meaningful ❤_**
 
-## Working <a href="https://github.com/ntrix"><img align="left" width="auto" height="600" src="https://raw.githubusercontent.com/ntrix/ntrix/ntrix-images/data-analyst-software-developer-stack-600.png"></a>
+## Working <a href="https://ntien.com"><img align="left" width="auto" height="450" src="https://raw.githubusercontent.com/ntrix/ntrix/ntrix-images/data-analyst-software-developer-stack-450.png"></a>
 
 - `IB-Agent` and `Data-Analyst` at `IC Market Australia`: [http://www.icmarkets.com](http://www.icmarkets.com)
 
@@ -30,26 +30,43 @@
 
 - Or `Free Code Camp` [https://www.freecodecamp.org/ntrix](https://www.freecodecamp.org/ntrix)
 
-## Projects for sharing <a href="https://github.com/ntrix"><img align="right" width="auto" height="300" src="https://raw.githubusercontent.com/ntrix/ntrix/ntrix-images/web-developer-stack-300.png"></a>
+## Projects for sharing <a href="https://amazin.one"><img align="right" width="auto" height="450" src="https://raw.githubusercontent.com/ntrix/ntrix/ntrix-images/web-developer-stack-450.png"></a>
 
 - Amazin' Amazim Store: https://github.com/ntrix/amazin
 
-  A MERN-stack app for eCommerce platform, Webshop, Web Store:
+  A large scale project, MERN-stack app for eCommerce platform, Webshop, Web Store, Video Store with Community.
 
-  https://amazim.store
-
-- Amazim Store's Storybook: https://amazin.one
+  **Storybook:** https://amazin.one
 
 - BitMa!n: https://github.com/ntrix/bitmain
 
-  An Angular App for Crypto & Forex trading
-
-  https://bitman.store
+  An Angular App for Crypto & Forex trading.
 
 - ZoomBook: https://github.com/ntrix/ZoomBook
 
-  A MERN-stack App with mixed features of Facebook and Zoom:
+  A MERN-stack App with mixed features of Facebook and Zoom.
 
-  https://ZoomBook.one
+- Furnitown: https://github.com/ntrix/furnitown
 
-- Furnitown: https://furni-town.vercel.app/
+  https://furni-town.vercel.app/
+
+| **[amazim.store][amazim]**                | **[bitman.store][bitman]**                 |
+| ----------------------------------------- | ------------------------------------------ |
+| [![amazim thumbnail][amazim-img]][amazim] | [![bitma!n thumbnail][bitman-img]][bitman] |
+| **[storybook UI][amazim-sb]**             |                                            |
+
+| **[zoombook.one][zoombook]**                    | **[furni-town.one][furni]**                 |
+| ----------------------------------------------- | ------------------------------------------- |
+| [![zoombook thumbnail][zoombook-img]][zoombook] | [![furni-town thumbnail][furni-img]][furni] |
+| **[APIs document][zoombook-api]**               |                                             |
+
+[amazim]: https://amazim.store
+[bitman]: https://bitman.store
+[zoombook]: https://zoombook.herokuapp.com
+[furni]: https://furni-town.vercel.app/
+[amazim-img]: https://www.ntien.com/images/projekte/project-thumbnail__amazin.png
+[bitman-img]: https://www.ntien.com/images/projekte/project-thumbnail__bitmain.png
+[zoombook-img]: https://www.ntien.com/images/projekte/project-thumbnail__zoombook-mobile.png
+[furni-img]: https://www.ntien.com/images/projekte/project-thumbnail__furnitown.png
+[amazim-sb]: https://www.amazin.one/
+[zoombook-api]: https://app.swaggerhub.com/apis/ntrix/ZoomBook/1.0.0#/
