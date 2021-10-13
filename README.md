@@ -32,33 +32,34 @@
 
 ## Projects for sharing <a href="https://amazin.one"><img align="right" width="auto" height="450" src="https://raw.githubusercontent.com/ntrix/ntrix/ntrix-images/web-developer-stack-450.png"></a>
 
-- Amazin' Amazim Store: https://github.com/ntrix/amazin
+- `Amazin' Amazim Store`: https://github.com/ntrix/amazin
 
-  A large scale project, MERN-stack app for eCommerce platform, Webshop, Web Store, Video Store with Community.
+  - A `large scale` project, Nx MERN-stack app for eCommerce platform, Webshop, Web Store, Video Store with Community.
 
-  **Storybook:** https://amazin.one
+  - **`Storybook`:** https://amazin.one
 
-- BitMa!n: https://github.com/ntrix/bitmain
+- `ZoomBook`: https://github.com/ntrix/ZoomBook
 
-  An Angular App for Crypto & Forex trading.
+  - A MERN-stack App with mixed features of Facebook and Zoom.
 
-- ZoomBook: https://github.com/ntrix/ZoomBook
+  - `APIs` document: [https://app.swaggerhub.com/apis/ntrix][zoombook-api]
 
-  A MERN-stack App with mixed features of Facebook and Zoom.
+- `BitMa!n`: https://github.com/ntrix/bitmain
 
-- Furnitown: https://github.com/ntrix/furnitown
+  - An Angular App for Crypto & Forex trading.
 
-  https://furni-town.vercel.app/
+- `Furnitown`: https://github.com/ntrix/furnitown
 
-| **[amazim.store][amazim]**                | **[bitman.store][bitman]**                 |
-| ----------------------------------------- | ------------------------------------------ |
-| [![amazim thumbnail][amazim-img]][amazim] | [![bitma!n thumbnail][bitman-img]][bitman] |
-| **[storybook UI][amazim-sb]**             |                                            |
+  - Vanilla Javascript, creative Frontend, commercial landing pages https://furni-town.vercel.app/
 
-| **[zoombook.one][zoombook]**                    | **[furni-town.one][furni]**                 |
-| ----------------------------------------------- | ------------------------------------------- |
-| [![zoombook thumbnail][zoombook-img]][zoombook] | [![furni-town thumbnail][furni-img]][furni] |
-| **[APIs document][zoombook-api]**               |                                             |
+| **[amazim.store][amazim]**                | **[zoombook.one][zoombook]**                    |
+| ----------------------------------------- | ----------------------------------------------- |
+| [![amazim thumbnail][amazim-img]][amazim] | [![zoombook thumbnail][zoombook-img]][zoombook] |
+| **[storybook UI][amazim-sb]**             | **[APIs document][zoombook-api]**               |
+
+| **[bitman.store][bitman]**                 | **[furnitown.com][furni]**                 |
+| ------------------------------------------ | ------------------------------------------ |
+| [![bitma!n thumbnail][bitman-img]][bitman] | [![furnitown thumbnail][furni-img]][furni] |
 
 [amazim]: https://amazim.store
 [bitman]: https://bitman.store
