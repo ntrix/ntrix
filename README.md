@@ -67,7 +67,7 @@
 [furni]: https://furni-town.vercel.app/
 [amazim-img]: https://www.ntien.com/images/projekte/project-thumbnail__amazin.png
 [bitman-img]: https://www.ntien.com/images/projekte/project-thumbnail__bitmain.png
-[zoombook-img]: https://www.ntien.com/images/projekte/project-thumbnail__zoombook-mobile.png
+[zoombook-img]: https://www.ntien.com/images/projekte/project-thumbnail__zoombook.png
 [furni-img]: https://www.ntien.com/images/projekte/project-thumbnail__furnitown.png
 [amazim-sb]: https://www.amazin.one/
 [zoombook-api]: https://app.swaggerhub.com/apis/ntrix/ZoomBook/1.0.0#/
