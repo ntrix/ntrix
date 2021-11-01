@@ -2,7 +2,7 @@
 
 ## - Passionate Data Analyst, Javascript & Web Developer -
 
-![Tech stack Banner](https://raw.githubusercontent.com/ntrix/ntrix/ntrix-images/javascript-developer-techstack-900.png)
+<a href="https://ntien.com"><img width="auto" height="300" src="https://raw.githubusercontent.com/ntrix/ntrix/ntrix-images/javascript-developer-techstack-900.png"></a>
 
 - **_Logic, analytic thinking, solution oriented and team spirit._**
 
@@ -10,7 +10,7 @@
 
 - **_Enjoy working with ReactJS and creating something meaningful ❤_**
 
-## Working <a href="https://ntien.com"><img align="left" width="auto" height="450" src="https://raw.githubusercontent.com/ntrix/ntrix/ntrix-images/data-analyst-software-developer-stack-450.png"></a>
+## Working <a href="mailto:contact@ntien.com"><img align="right" width="auto" height="450" src="https://raw.githubusercontent.com/ntrix/ntrix/ntrix-images/data-analyst-software-developer-stack-450.png"></a>
 
 - `IB-Agent` and `Data-Analyst` at `IC Market Australia`: [http://www.icmarkets.com](http://www.icmarkets.com)
 
@@ -20,7 +20,7 @@
 
 - `Visit` my `Website`: [https://www.ntien.com](https://www.ntien.com)
 
-- Or `contact` me ([mt4@ntien.com](mailto:mt4@ntien.com)) if you need an individual, specific, discrete and sufficient EA-System, Auto Chartist, Bot or Outsourcing any other Trading Tools.
+- Or `contact` me ([contact@ntien.com](mailto:contact@ntien.com)) if you need an individual, specific, discrete and sufficient EA-System, Auto Chartist, Bot or Outsourcing any other Trading Tools.
 
 ## Coding in Free time
 
@@ -30,7 +30,7 @@
 
 - Or `Free Code Camp` [https://www.freecodecamp.org/ntrix](https://www.freecodecamp.org/ntrix)
 
-## Projects for sharing <a href="https://amazin.one"><img align="right" width="auto" height="450" src="https://raw.githubusercontent.com/ntrix/ntrix/ntrix-images/web-developer-stack-450.png"></a>
+## Projects for sharing <a href="https://amazin.one"><img align="left" width="auto" height="450" src="https://raw.githubusercontent.com/ntrix/ntrix/ntrix-images/web-developer-stack-450.png"></a>
 
 - `Amazin' Amazim Store`: https://github.com/ntrix/amazin
 
