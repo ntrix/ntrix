@@ -65,9 +65,9 @@
 [bitman]: https://bitman.store
 [zoombook]: https://zoombook.herokuapp.com
 [furni]: https://furni-town.vercel.app/
-[amazim-img]: https://www.ntien.com/images/projekte/project-thumbnail__amazin.png
-[bitman-img]: https://www.ntien.com/images/projekte/project-thumbnail__bitmain.png
-[zoombook-img]: https://www.ntien.com/images/projekte/project-thumbnail__zoombook.png
-[furni-img]: https://www.ntien.com/images/projekte/project-thumbnail__furnitown.png
+[amazim-img]: https://www.ntien.com/images/jpg/amazin.jpg
+[bitman-img]: https://www.ntien.com/images/jpg/bitmain.jpg
+[zoombook-img]: https://www.ntien.com/images/jpg/zoombook.jpg
+[furni-img]: https://www.ntien.com/images/jpg/furnitown.jpg
 [amazim-sb]: https://www.amazin.one/
 [zoombook-api]: https://app.swaggerhub.com/apis/ntrix/ZoomBook/1.0.0#/
