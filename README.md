@@ -36,7 +36,7 @@
 
   - A `large scale` project, Nx MERN-stack app for eCommerce platform, Webshop, Web Store, Video Store with Community.
 
-  - **`Storybook`:** https://amazin.one
+  - **`Storybook`:** [https://amazin.one](https://ntrix.github.io/amazin-story/)
 
 - `ZoomBook`: https://github.com/ntrix/ZoomBook
 
@@ -61,9 +61,9 @@
 | ------------------------------------------ | ------------------------------------------ |
 | [![bitma!n thumbnail][bitman-img]][bitman] | [![furnitown thumbnail][furni-img]][furni] |
 
-[amazim]: https://amazim.store
-[bitman]: https://bitman.store
-[zoombook]: https://zoombook.herokuapp.com
+[amazim]: https://amazin.vercel.app/
+[bitman]: https://bitman.vercel.app/
+[zoombook]: https://zoom-book.vercel.app/
 [furni]: https://furni-town.vercel.app/
 [amazim-img]: https://www.ntien.com/images/jpg/amazin.jpg
 [bitman-img]: https://www.ntien.com/images/jpg/bitmain.jpg
