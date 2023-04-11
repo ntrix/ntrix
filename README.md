@@ -69,5 +69,5 @@
 [bitman-img]: https://www.ntien.com/images/jpg/bitmain.jpg
 [zoombook-img]: https://www.ntien.com/images/jpg/zoombook.jpg
 [furni-img]: https://www.ntien.com/images/jpg/furnitown.jpg
-[amazim-sb]: https://www.amazin.one/
+[amazim-sb]: https://ntrix.github.io/amazin-story/
 [zoombook-api]: https://app.swaggerhub.com/apis/ntrix/ZoomBook/1.0.0#/
