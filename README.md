@@ -30,7 +30,9 @@
 
 - `Hack` with me at `Hackerrank` [https://www.hackerrank.com/ntrix](https://www.hackerrank.com/ntrix)
 
-- Or `Free Code Camp` [https://www.freecodecamp.org/ntrix](https://www.freecodecamp.org/ntrix)
+- `Free Code Camp` [https://www.freecodecamp.org/ntrix](https://www.freecodecamp.org/ntrix)
+
+- And teach my 9-year-old son programming, creating games [https://scratch.mit.edu/search/projects?q=thinfancywest](https://scratch.mit.edu/search/projects?q=thinfancywest)
 
 ## Projects for sharing <a href="https://amazin.one"><img align="left" width="auto" height="450" src="https://raw.githubusercontent.com/ntrix/ntrix/ntrix-images/web-developer-stack-450.png"></a>
 
