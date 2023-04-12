@@ -12,7 +12,9 @@
 
 ## Working <a href="mailto:contact@ntien.com"><img align="right" width="auto" height="450" src="https://raw.githubusercontent.com/ntrix/ntrix/ntrix-images/data-analyst-software-developer-stack-450.png"></a>
 
-- `IB-Agent` and `Data-Analyst` at `IC Market Australia`: [http://www.icmarkets.com](http://www.icmarkets.com)
+- `Software Engineer` at `Casavi`: [https://casavi.com](https://casavi.com/en/) and [https://relay.immo](https://relay.immo/)
+
+- `IB-Agent` and `Data-Analyst` at `IC Market Australia`: [https://www.icmarkets.com](https://www.icmarkets.com)
 
 - Freelancer MetaTrader `Software Developer`: [MetaTrader Market](https://www.metatrader4.com/en/market)
 
