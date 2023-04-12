@@ -1,6 +1,6 @@
 # Tien Nguyen
 
-## - Passionate Data Analyst, Javascript & Web Developer -
+## - Passionate Software Engineer, Javascript Developer, Data Analyst -
 
 <a href="https://ntien.com"><img width="auto" height="300" src="https://raw.githubusercontent.com/ntrix/ntrix/ntrix-images/javascript-developer-techstack-900.png"></a>
 
@@ -8,7 +8,7 @@
 
 - **_Love to learn new things everyday, especially things related to Javascript and Frontend stacks._**
 
-- **_Enjoy working with ReactJS and creating something meaningful ❤_**
+- **_Enjoy working with ReactJS, Typescript, Node and creating something meaningful ❤_**
 
 ## Working <a href="mailto:contact@ntien.com"><img align="right" width="auto" height="450" src="https://raw.githubusercontent.com/ntrix/ntrix/ntrix-images/data-analyst-software-developer-stack-450.png"></a>
 
