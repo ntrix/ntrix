@@ -14,11 +14,11 @@
 
 - `Software Engineer` at `Casavi`: [casavi.com](https://casavi.com/en/) and [relay.immo](https://relay.immo/)
 
-- `IB-Agent` and `Data-Analyst` at `IC Market Australia`: [icmarkets.com](https://www.icmarkets.com)
+- `IB-Agent` and `Data-Analyst` at `IC Market Australia`: [icmarkets](https://www.icmarkets.com)
 
 - Freelancer MetaTrader `Software Developer`: [MetaTrader Market](https://www.metatrader4.com/en/market)
 
-- `Javascript Developer` at `CFD` [cfdtraining.vn](https://www.cfdtraining.vn)
+- `Javascript Developer` at `CFD` [cfdcircle](https://cfdcircle.vn)
 
 - `Visit` my `Website`: [ntien.com](https://www.ntien.com)
 
@@ -36,11 +36,11 @@
 
 ## Projects for sharing <a href="https://amazin.one"><img align="left" width="auto" height="450" src="https://raw.githubusercontent.com/ntrix/ntrix/ntrix-images/web-developer-stack-450.png"></a>
 
-- `Amazin' Amazim Store`: https://github.com/ntrix/amazin
+- `Amazin' Store`: https://github.com/ntrix/amazin
 
   - A `large scale` project, Nx MERN-stack app for eCommerce platform, Webshop, Web Store, Video Store with Community.
 
-  - **`Storybook`:** [https://amazin.one](https://ntrix.github.io/amazin-story/)
+  - **`Storybook`:** [https://storybook.amazin.world](https://ntrix.github.io/amazin-story/)
 
 - `ZoomBook`: https://github.com/ntrix/ZoomBook
 
@@ -56,22 +56,22 @@
 
   - Vanilla Javascript, creative Frontend, commercial landing pages https://furni-town.vercel.app/
 
-| **[amazim.store][amazim]**                | **[zoombook.one][zoombook]**                    |
+| **[amazin.world][amazin]**                | **[zoombook][zoombook]**                    |
 | ----------------------------------------- | ----------------------------------------------- |
-| [![amazim thumbnail][amazim-img]][amazim] | [![zoombook thumbnail][zoombook-img]][zoombook] |
-| **[storybook UI][amazim-sb]**             | **[APIs document][zoombook-api]**               |
+| [![amazin thumbnail][amazin-img]][amazin] | [![zoombook thumbnail][zoombook-img]][zoombook] |
+| **[storybook UI][amazin-sb]**             | **[APIs document][zoombook-api]**               |
 
-| **[bitman.store][bitman]**                 | **[furnitown.com][furni]**                 |
+| **[bitman][bitman]**                 | **[furnitown][furni]**                 |
 | ------------------------------------------ | ------------------------------------------ |
 | [![bitma!n thumbnail][bitman-img]][bitman] | [![furnitown thumbnail][furni-img]][furni] |
 
-[amazim]: https://amazin.vercel.app/
-[bitman]: https://bitman.vercel.app/
-[zoombook]: https://zoom-book.vercel.app/
-[furni]: https://furni-town.vercel.app/
-[amazim-img]: https://www.ntien.com/images/jpg/amazin.jpg
+[amazin]: https://amazin.world
+[bitman]: https://bitmain.amazin.world
+[zoombook]: https://zoombook.ntien.com
+[furni]: https://furnitown.ntien.com
+[amazin-img]: https://www.ntien.com/images/jpg/amazin.jpg
 [bitman-img]: https://www.ntien.com/images/jpg/bitmain.jpg
 [zoombook-img]: https://www.ntien.com/images/jpg/zoombook.jpg
 [furni-img]: https://www.ntien.com/images/jpg/furnitown.jpg
-[amazim-sb]: https://ntrix.github.io/amazin-story/
+[amazin-sb]: https://storybook.amazin.world
 [zoombook-api]: https://app.swaggerhub.com/apis/ntrix/ZoomBook/1.0.0#/
