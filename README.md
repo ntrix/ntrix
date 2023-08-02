@@ -40,7 +40,9 @@
 
   - A `large scale` project, Nx MERN-stack app for eCommerce platform, Webshop, Web Store, Video Store with Community.
 
-  - **`Storybook`:** [https://storybook.amazin.world](https://ntrix.github.io/amazin-story/)
+  - For testing: first register for a test (buyer) account, then "Apply & Verify Your Seller Account", and "Apply An Admin Account" for more experience
+
+  - **`Storybook Components`:** [https://storybook.amazin.world](https://ntrix.github.io/amazin-story/)
 
 - `ZoomBook`: https://github.com/ntrix/ZoomBook
 
@@ -59,7 +61,7 @@
 | **[amazin.world][amazin]**                | **[zoombook][zoombook]**                    |
 | ----------------------------------------- | ----------------------------------------------- |
 | [![amazin thumbnail][amazin-img]][amazin] | [![zoombook thumbnail][zoombook-img]][zoombook] |
-| **[storybook UI][amazin-sb]**             | **[APIs document][zoombook-api]**               |
+| **[Storybook UI Component Library][amazin-sb]**             | **[APIs document][zoombook-api]**               |
 
 | **[bitman][bitman]**                 | **[furnitown][furni]**                 |
 | ------------------------------------------ | ------------------------------------------ |
