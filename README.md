@@ -34,7 +34,20 @@
 
 - And teach my 9-year-old son programming, creating games [https://scratch.mit.edu/search/projects?q=thinfancywest](https://scratch.mit.edu/search/projects?q=thinfancywest)
 
-## Projects for sharing <a href="https://amazin.one"><img align="left" width="auto" height="450" src="https://raw.githubusercontent.com/ntrix/ntrix/ntrix-images/web-developer-stack-450.png"></a>
+## Projects for sharing
+
+
+| **[AMAZIN.WORLD][amazin]**                | **[zoombook][zoombook]**                    |
+| ----------------------------------------- | ----------------------------------------------- |
+| [![amazin thumbnail][amazin-img]][amazin] | [![zoombook thumbnail][zoombook-img]][zoombook] |
+| **[STORYBOOK UI Component Library][amazin-sb]**             | **[APIs document][zoombook-api]**               |
+
+| **[bitman][bitman]**                 | **[furnitown][furni]**                 |
+| ------------------------------------------ | ------------------------------------------ |
+| [![bitma!n thumbnail][bitman-img]][bitman] | [![furnitown thumbnail][furni-img]][furni] |
+
+
+<a href="https://amazin.world"><img align="left" width="auto" height="450" src="https://raw.githubusercontent.com/ntrix/ntrix/ntrix-images/web-developer-stack-450.png"></a>
 
 - `Amazin' Store`: https://github.com/ntrix/amazin
 
@@ -57,15 +70,6 @@
 - `Furnitown`: https://github.com/ntrix/furnitown
 
   - Vanilla Javascript, creative Frontend, commercial landing pages https://furni-town.vercel.app/
-
-| **[AMAZIN.WORLD][amazin]**                | **[zoombook][zoombook]**                    |
-| ----------------------------------------- | ----------------------------------------------- |
-| [![amazin thumbnail][amazin-img]][amazin] | [![zoombook thumbnail][zoombook-img]][zoombook] |
-| **[STORYBOOK UI Component Library][amazin-sb]**             | **[APIs document][zoombook-api]**               |
-
-| **[bitman][bitman]**                 | **[furnitown][furni]**                 |
-| ------------------------------------------ | ------------------------------------------ |
-| [![bitma!n thumbnail][bitman-img]][bitman] | [![furnitown thumbnail][furni-img]][furni] |
 
 [amazin]: https://amazin.world
 [bitman]: https://bitmain.amazin.world
