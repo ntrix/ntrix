@@ -36,6 +36,7 @@
 
 ## Projects for sharing
 
+### Apps & Pages:
 
 | **[AMAZIN.WORLD][amazin]**                | **[zoombook][zoombook]**                    |
 | ----------------------------------------- | ----------------------------------------------- |
@@ -46,14 +47,15 @@
 | ------------------------------------------ | ------------------------------------------ |
 | [![bitma!n thumbnail][bitman-img]][bitman] | [![furnitown thumbnail][furni-img]][furni] |
 
+### Repos:
 
-<a href="https://amazin.world"><img align="left" width="auto" height="450" src="https://raw.githubusercontent.com/ntrix/ntrix/ntrix-images/web-developer-stack-450.png"></a>
+<a href="https://amazin.world"><img align="right" width="auto" height="450" src="https://raw.githubusercontent.com/ntrix/ntrix/ntrix-images/web-developer-stack-450.png"></a>
 
 - `Amazin' Store`: https://github.com/ntrix/amazin
 
   - A `large scale` project, Nx MERN-stack app for eCommerce platform, Webshop, Web Store, Video Store with Community.
 
-  - For testing: First register for a test (buyer) account, then "Apply & Verify Your Seller Account", and "Apply An Admin Account" for more experience.
+  - For testing app: First register for a test (buyer) account, then "Apply & Verify Your Seller Account", and "Apply An Admin Account" for more experience.
 
   - **`Storybook Components`:** [https://storybook.amazin.world](https://ntrix.github.io/amazin-story/)
 
