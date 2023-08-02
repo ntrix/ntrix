@@ -1,12 +1,12 @@
 # Tien Nguyen
 
-## - Passionate Software Engineer, Javascript Developer, Data Analyst -
+## - Passionate Software Engineer, Fullstack Javascript (Typescript) Developer -
 
 <a href="https://ntien.com"><img width="auto" height="300" src="https://raw.githubusercontent.com/ntrix/ntrix/ntrix-images/javascript-developer-techstack-900.png"></a>
 
-- **_Logic, analytic thinking, solution oriented and team spirit._**
+- **_Logic, analytic thinking, solution-oriented and team spirit._**
 
-- **_Love to learn new things everyday, especially things related to Javascript and Frontend stacks._**
+- **_Love to learn new things every day, especially things related to Javascript and Frontend stacks._**
 
 - **_Enjoy working with ReactJS, Typescript, Node and creating something meaningful ❤_**
 
