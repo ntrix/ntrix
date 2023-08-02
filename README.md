@@ -40,7 +40,7 @@
 
   - A `large scale` project, Nx MERN-stack app for eCommerce platform, Webshop, Web Store, Video Store with Community.
 
-  - For testing: first register for a test (buyer) account, then "Apply & Verify Your Seller Account", and "Apply An Admin Account" for more experience
+  - For testing: First register for a test (buyer) account, then "Apply & Verify Your Seller Account", and "Apply An Admin Account" for more experience.
 
   - **`Storybook Components`:** [https://storybook.amazin.world](https://ntrix.github.io/amazin-story/)
 
@@ -58,10 +58,10 @@
 
   - Vanilla Javascript, creative Frontend, commercial landing pages https://furni-town.vercel.app/
 
-| **[amazin.world][amazin]**                | **[zoombook][zoombook]**                    |
+| **[AMAZIN.WORLD][amazin]**                | **[zoombook][zoombook]**                    |
 | ----------------------------------------- | ----------------------------------------------- |
 | [![amazin thumbnail][amazin-img]][amazin] | [![zoombook thumbnail][zoombook-img]][zoombook] |
-| **[Storybook UI Component Library][amazin-sb]**             | **[APIs document][zoombook-api]**               |
+| **[STORYBOOK UI Component Library][amazin-sb]**             | **[APIs document][zoombook-api]**               |
 
 | **[bitman][bitman]**                 | **[furnitown][furni]**                 |
 | ------------------------------------------ | ------------------------------------------ |
